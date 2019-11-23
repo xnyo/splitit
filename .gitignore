@@ -5,4 +5,4 @@ temp/out/*/
 .pyenv
 settings.ini
 .env
-__pycache__/
+**/__pycache__
