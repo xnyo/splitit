@@ -1,0 +1,4 @@
+aiogram==2.4
+#youtube-dl==2019.11.22
+spleeter==1.4.5
+python-decouple==3.3

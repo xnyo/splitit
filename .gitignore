@@ -1,0 +1,7 @@
+pretrained_models
+temp/in/*.mp3
+temp/out/*/
+.idea
+.pyenv
+settings.ini
+.env
